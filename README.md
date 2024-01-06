@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ <!-- 🔭 I’m currently working on **a marketplace**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
 
  </div>
  
@@ -24,11 +24,11 @@
   <a href="mailto:wisiviart@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <!-- <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+  </a> -->
   <a href="https://wiviart.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -47,10 +47,10 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
+  <img alt="snake eating my contributions" src="https://github.com/Wiviart/Wiviart/blob/output/github-contribution-grid-snake.svg"/>
   <br/><br/><br/>
 </div>
+
 
 <hr/>
 
@@ -58,12 +58,14 @@
 <br>
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Wiviart&theme=dark" alt="GitHub Streak" /></a>
-  <img width=300 src="https://github-readme-stats.vercel.app/api?username=wiviart&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiviart&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img  width=400 src="https://github-readme-stats.vercel.app/api?username=wiviart&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img  width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiviart&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
+<br/>
+<br/>
 
 <hr/>
 
