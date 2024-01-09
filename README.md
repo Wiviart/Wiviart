@@ -57,22 +57,28 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Wiviart&theme=dark" alt="GitHub Streak" /></a>
-  <br/>
   <img  width=400 src="https://github-readme-stats.vercel.app/api?username=wiviart&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img  width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiviart&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <br/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Wiviart&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 <br/>
 <br/>
 
 <hr/>
+<h2 align="center">🏆 GitHub Trophies </h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wiviart" alt="wiviart" /></a> </p>
 
+<h2 align="center"> 🔝 Top Contributed Repo </h2>
+
+![](https://github-contributor-stats.vercel.app/api?username=Wiviart&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br/>
+<hr/>
 
 <div align="center">
-<!-- <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
