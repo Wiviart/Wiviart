@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:wisiviart@gmail.com">
+  <a href="mailto:phamhuudung.email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/dungpham-unity" target="_blank">
